@@ -49,13 +49,17 @@
 
 ### 🏆 Featured Project
 
-<!-- Replace below with your top repo, or update after creating/pinning your best project! -->
 <p align="center">
-  <a href="https://github.com/darshan-3982/YOUR-BEST-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshan-3982&repo=YOUR-BEST-REPO&theme=algolia" alt="Best Project Repo" />
+  <a href="https://github.com/darshan-3982/face-based-attendance-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshan-3982&repo=face-based-attendance-system&theme=algolia" alt="Face Based Attendance System" />
   </a>
 </p>
 
+<p align="center">
+  <b>Face Based Attendance System</b>  
+  <br>
+  An AI-powered application that automates attendance using facial recognition technology. Built with Python, OpenCV, and ML, it streamlines classroom and workplace management.
+</p>
 ---
 
 
